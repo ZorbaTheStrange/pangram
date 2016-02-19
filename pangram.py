@@ -1,7 +1,6 @@
 #! /usr/bin/python3
 ''' 
 panogram.py - this program recongizes pangrams.
-2016.2.6
 by zorba
 '''
 
